@@ -1,0 +1,51 @@
+_repo: Lewis-and-Irene_71047
+_version: 0.0.1
+alternative_title: Lewis et Irène. English
+contributor:
+  translator:
+    agent_name: Holland, Vyvyan Beresford
+    aliases:
+    - H. B. V. (Vyvyan Beresford Holland)
+    - V., H. B. (Vyvyan Beresford Holland)
+    - Holland, Vivian B. (Vivian Beresford)
+    - Wilde, Vyvyan Oscar Beresford
+    birthdate: 1886
+    deathdate: 1967
+    gutenberg_agent_id: '56056'
+    url: http://www.gutenberg.org/2009/agents/56056
+    wikipedia: https://en.wikipedia.org/wiki/Vyvyan_Holland
+creator:
+  author:
+    agent_name: Morand, Paul
+    alias: Maurand, Paul
+    birthdate: 1888
+    deathdate: 1976
+    gutenberg_agent_id: '56055'
+    url: http://www.gutenberg.org/2009/agents/56055
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Paul_Morand
+    - https://fr.wikipedia.org/wiki/Paul_Morand
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71047'
+  lccn: '25012176'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001214130
+pgterms:marc905: 20230404040824morand
+pgterms:marc906: '1925'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: '  $aUK :$bChatto & Windus, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'Bankers -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Lewis and Irene
+url: http://www.gutenberg.org/ebooks/71047
