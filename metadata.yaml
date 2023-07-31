@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '56056'
     url: http://www.gutenberg.org/2009/agents/56056
     wikipedia: https://en.wikipedia.org/wiki/Vyvyan_Holland
+covers:
+- cover_type: archival
+  image_path: 71047-h/images/cover.jpg
 creator:
   author:
     agent_name: Morand, Paul
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Paul_Morand
     - https://fr.wikipedia.org/wiki/Paul_Morand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71047#Lewis-and-Irene
 gutenberg_issued: '2023-06-26'
 identifiers:
   gutenberg: '71047'
